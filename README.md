@@ -1,2 +1,2 @@
-# react-context-example
+# React
 Created with CodeSandbox
